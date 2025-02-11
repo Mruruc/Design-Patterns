@@ -1,5 +1,5 @@
 # Design-Pattern-
-Design Pattern with Java 
+Design Patterns with Java.
 
 ## Creational Design Pattern 
 * [Builder Pattern](https://github.com/Mruruc/Design-Patterns/blob/master/Builder-Pattern.md)
